@@ -26,3 +26,6 @@ NOTE: PyUserInput depends on the following libraries:
 * Linux - Xlib
 * Mac - Quartz, AppKit
 * Windows - pywin32, pyHook
+
+Contributors
+* [Fer repo](github.com/fercreek)
